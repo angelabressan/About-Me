@@ -1,7 +1,7 @@
 # 💻🚀 About Me (Portifólio) | Programa Oracle ONE Next Education
 
 
-Projeto desenvolvido usando HTML5 & CSS3 - About Me (Portifólio) - T6 do programa ONE.
+- Projeto desenvolvido usando HTML5 & CSS3 - About Me (Portifólio) - T6 do programa ONE.
 
 
  ## 🔗 Link do deploy
